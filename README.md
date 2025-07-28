@@ -1,16 +1,36 @@
-## Hi there 👋
+<table>
+    </td>
+  
+    /𝐀𝐁𝐎𝐔𝐓 𝐌𝐄
+    │
+    ├── /𝐁𝐈𝐎
+    │    ├── 𝐛𝐫𝐚𝐳𝐢𝐥𝐢𝐚𝐧
+    │    ├── 𝐛𝐚𝐜𝐡𝐞𝐥𝐨𝐫'𝐬 𝐝𝐞𝐠𝐫𝐞𝐞 𝐢𝐧 𝐜𝐨𝐦𝐩𝐮𝐭𝐞𝐫 𝐬𝐜𝐢𝐞𝐧𝐜𝐞
+    │    └── 𝐬𝐨𝐟𝐭𝐰𝐚𝐫𝐞 𝐞𝐧𝐠𝐢𝐧𝐞𝐞𝐫 𝐚𝐭 ??
+    │
+    ├── /𝐋𝐀𝐍𝐆𝐔𝐀𝐆𝐄𝐒
+    │    ├── 𝐩𝐭-𝐛𝐫 (𝐧𝐚𝐭𝐢𝐯𝐞)
+    │    ├── 𝐞𝐧𝐠𝐥𝐢𝐬𝐡 (𝐢𝐧𝐭𝐞𝐫𝐦𝐞𝐝𝐢𝐚𝐭𝐞)
+    │    └── 𝐬𝐩𝐚𝐧𝐢𝐬𝐡 (𝐛𝐚𝐬𝐢𝐜)
+    │
+    ├── /𝐎𝐒
+    │    ├── /𝐰𝐢𝐧𝐝𝐨𝐰𝐬
+    │    └── /𝐥𝐢𝐧𝐮𝐱
+    │
+    ├── /𝐒𝐓𝐀𝐂𝐊𝐒
+    │    ├── 𝐜#.𝐜𝐬
+    │    ├── /.𝐧𝐞𝐭
+    │    ├── /𝐣𝐚𝐯𝐚.𝐣𝐚𝐯𝐚
+    │    ├── /𝐣𝐚𝐯𝐚𝐬𝐜𝐫𝐢𝐩𝐭.𝐣𝐬
+    │    ├── /𝐫𝐞𝐚𝐜𝐭
+    │    ├── /𝐫𝐞𝐚𝐜𝐭_𝐧𝐚𝐭𝐢𝐯𝐞
+    │    └── /𝐭𝐲𝐩𝐞𝐬𝐜𝐫𝐢𝐩𝐭.𝐭𝐬
+    │
+    └── /𝐈𝐃𝐄𝐒
+         ├── 𝐯𝐬𝐜𝐨𝐝𝐞
+         ├── 𝐯𝐬
+         └── 𝐢𝐧𝐭𝐞𝐥𝐥𝐢𝐣
 
-<!--
-**lucasckrug/lucasckrug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+        
+  </tr>
+</table>                                                                
