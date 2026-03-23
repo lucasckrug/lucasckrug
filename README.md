@@ -1,28 +1,20 @@
-<table>
-    </td>
-  
-    /𝐀𝐁𝐎𝐔𝐓 𝐌𝐄
-    │
-    ├── /𝐁𝐈𝐎
-    │    ├── 𝐛𝐫𝐚𝐳𝐢𝐥𝐢𝐚𝐧
-    │    ├── 𝐛𝐚𝐜𝐡𝐞𝐥𝐨𝐫'𝐬 𝐝𝐞𝐠𝐫𝐞𝐞 𝐢𝐧 𝐜𝐨𝐦𝐩𝐮𝐭𝐞𝐫 𝐬𝐜𝐢𝐞𝐧𝐜𝐞
-    │    └── 𝐬𝐨𝐟𝐭𝐰𝐚𝐫𝐞 𝐞𝐧𝐠𝐢𝐧𝐞𝐞𝐫
-    │
-    ├── /𝐋𝐀𝐍𝐆𝐔𝐀𝐆𝐄𝐒
-    │    ├── 𝐩𝐭-𝐛𝐫 (𝐧𝐚𝐭𝐢𝐯𝐞)
-    │    ├── 𝐞𝐧𝐠𝐥𝐢𝐬𝐡 (𝐢𝐧𝐭𝐞𝐫𝐦𝐞𝐝𝐢𝐚𝐭𝐞)
-    │    └── 𝐬𝐩𝐚𝐧𝐢𝐬𝐡 (𝐛𝐚𝐬𝐢𝐜)
-    │
-    ├── /𝐎𝐒
-    │    ├── /𝐰𝐢𝐧𝐝𝐨𝐰𝐬
-    │    └── /𝐥𝐢𝐧𝐮𝐱
-    │
-    └── /𝐒𝐓𝐀𝐂𝐊𝐒
-         ├── /𝐩𝐲𝐭𝐡𝐨𝐧.𝐩𝐲
-         ├── /𝐣𝐚𝐯𝐚.𝐣𝐚𝐯𝐚
-         ├── /𝐣𝐚𝐯𝐚𝐬𝐜𝐫𝐢𝐩𝐭.𝐣𝐬
-         ├── /𝐫𝐞𝐚𝐜𝐭_𝐧𝐚𝐭𝐢𝐯𝐞
-         └── /𝐭𝐲𝐩𝐞𝐬𝐜𝐫𝐢𝐩𝐭.𝐭𝐬
-        
-  </tr>
-</table>                                                                
+# Lucas Krug
+
+## Software Engineer
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white")](https://www.linkedin.com/in/lucasckrug/)
+
+---
+
+## 🛠️ Tech Skills
+
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **Languages** | TypeScript, JavaScript, Python, HTML5, CSS3 |
+| **Backend** | Node.js, Express.js, FastAPI, Django, REST APIs |
+| **Frontend** | React, React Native |
+| **Databases** | PostgreSQL, MongoDB |
+
+---
+
+</div>
